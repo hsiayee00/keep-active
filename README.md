@@ -1,6 +1,6 @@
-# keep-active
+# keep-up
 
-保持 GitHub 账号活跃度的轻量小脚本。运行 `keep_active.py` 会在 `activity.log` 追加一条记录，把它提交并推送，你的贡献图就多一个绿点。
+轻量小脚本。
 
 ## 用法
 
